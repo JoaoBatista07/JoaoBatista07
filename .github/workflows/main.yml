@@ -17,7 +17,7 @@ jobs:
       - name: Create dist folder
         run: mkdir -p dist
       - name: Generate snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: JoaoBatista07
           outputs: |
