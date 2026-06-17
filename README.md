@@ -20,7 +20,7 @@
 ##
 <div>
 <a href = "mailto:joaovtb00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-vitor-batista-7508a4267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/jo%C3%A3o-vitor-batista-7508a4267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/JoaoBatista07/JoaoBatista07/output/github-contribution-grid-snake.gif)
