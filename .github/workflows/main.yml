@@ -14,6 +14,8 @@ jobs:
 
 
     steps:
+      - name: Create dist folder
+        run: mkdir -p dist
       - name: Generate snake
         uses: Platane/snk@master
         with:
