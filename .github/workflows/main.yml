@@ -12,7 +12,7 @@ jobs:
 build:
 runs-on: ubuntu-latest
 
-
+```
 steps:
   - name: Generate snake
     uses: Platane/snk@master
@@ -29,5 +29,7 @@ steps:
       build_dir: dist
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
 
   
