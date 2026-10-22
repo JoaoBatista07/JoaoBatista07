@@ -74,10 +74,10 @@ Próximo passo: construir o front-end e deixar back e front rodando juntos na m�
 
 ## 🎓 Certificações
 
+- **AWS Certified AI Practitioner**, Amazon Web Services ([validar](https://www.credly.com/badges/b0acfc80-dca5-4155-a412-d0209c5d512c))
 - **Java Spring Professional**, DevSuperior ([validar](https://devsuperior.club/c/5-35659))
 - **Practitioner Generative AI**, Itaú Unibanco ([validar](https://www.credly.com/go/MZHhmhHv))
 - **Practitioner D&A Foundation**, Itaú Unibanco ([validar](https://www.credly.com/go/o6iSImzj))
-- **AWS Certified AI Practitioner**, em preparação
 
 ---
 
